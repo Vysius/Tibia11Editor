@@ -1,0 +1,48 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Google.Protobuf", "Google.Protobuf\Google.Protobuf.csproj", "{9B576380-726D-4142-8238-60A43AB0E35A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Google.Protobuf.Test", "Google.Protobuf.Test\Google.Protobuf.Test.csproj", "{580EB013-D3C7-4578-B845-015F4A3B0591}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Google.Protobuf.Conformance", "Google.Protobuf.Conformance\Google.Protobuf.Conformance.csproj", "{DDDC055B-E185-4181-BAB0-072F0F984569}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Google.Protobuf.JsonDump", "Google.Protobuf.JsonDump\Google.Protobuf.JsonDump.csproj", "{9695E08F-9829-497D-B95C-B38F28D48690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tibia11Editor", "WindowsFormsApp1\Tibia11Editor.csproj", "{F32B6947-499B-4E95-AB30-B78C9F69C65D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B576380-726D-4142-8238-60A43AB0E35A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B576380-726D-4142-8238-60A43AB0E35A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B576380-726D-4142-8238-60A43AB0E35A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B576380-726D-4142-8238-60A43AB0E35A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{580EB013-D3C7-4578-B845-015F4A3B0591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{580EB013-D3C7-4578-B845-015F4A3B0591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{580EB013-D3C7-4578-B845-015F4A3B0591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{580EB013-D3C7-4578-B845-015F4A3B0591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDDC055B-E185-4181-BAB0-072F0F984569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDDC055B-E185-4181-BAB0-072F0F984569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDDC055B-E185-4181-BAB0-072F0F984569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDDC055B-E185-4181-BAB0-072F0F984569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9695E08F-9829-497D-B95C-B38F28D48690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9695E08F-9829-497D-B95C-B38F28D48690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9695E08F-9829-497D-B95C-B38F28D48690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9695E08F-9829-497D-B95C-B38F28D48690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F32B6947-499B-4E95-AB30-B78C9F69C65D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32B6947-499B-4E95-AB30-B78C9F69C65D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32B6947-499B-4E95-AB30-B78C9F69C65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32B6947-499B-4E95-AB30-B78C9F69C65D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15AB9E93-1991-424F-88BE-B51301486150}
+	EndGlobalSection
+EndGlobal

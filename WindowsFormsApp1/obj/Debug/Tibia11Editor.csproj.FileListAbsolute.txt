@@ -1,0 +1,15 @@
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\WindowsFormsApp1\bin\Debug\Tibia11Editor.exe.config
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\WindowsFormsApp1\bin\Debug\Tibia11Editor.exe
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\WindowsFormsApp1\bin\Debug\Tibia11Editor.pdb
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\WindowsFormsApp1\bin\Debug\Google.Protobuf.pdb
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\WindowsFormsApp1\obj\Debug\Tibia11Editor.csprojResolveAssemblyReference.cache
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\WindowsFormsApp1\obj\Debug\Tibia11Editor.MainForm.resources
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\WindowsFormsApp1\obj\Debug\Tibia11Editor.Properties.Resources.resources
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\WindowsFormsApp1\obj\Debug\Tibia11Editor.csproj.GenerateResource.Cache
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\WindowsFormsApp1\obj\Debug\Tibia11Editor.csproj.CoreCompileInputs.cache
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\WindowsFormsApp1\obj\Debug\Tibia11Editor.exe
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\WindowsFormsApp1\obj\Debug\Tibia11Editor.pdb

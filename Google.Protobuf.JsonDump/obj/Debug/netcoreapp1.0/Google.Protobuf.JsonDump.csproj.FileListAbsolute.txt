@@ -1,0 +1,13 @@
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.JsonDump\bin\Debug\netcoreapp1.0\Google.Protobuf.JsonDump.deps.json
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.JsonDump\bin\Debug\netcoreapp1.0\Google.Protobuf.JsonDump.runtimeconfig.json
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.JsonDump\bin\Debug\netcoreapp1.0\Google.Protobuf.JsonDump.runtimeconfig.dev.json
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.JsonDump\bin\Debug\netcoreapp1.0\Google.Protobuf.JsonDump.dll
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.JsonDump\bin\Debug\netcoreapp1.0\Google.Protobuf.JsonDump.pdb
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.JsonDump\bin\Debug\netcoreapp1.0\Google.Protobuf.dll
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.JsonDump\bin\Debug\netcoreapp1.0\Google.Protobuf.pdb
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.JsonDump\bin\Debug\netcoreapp1.0\Google.Protobuf.xml
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.JsonDump\obj\Debug\netcoreapp1.0\Google.Protobuf.JsonDump.csprojResolveAssemblyReference.cache
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.JsonDump\obj\Debug\netcoreapp1.0\Google.Protobuf.JsonDump.csproj.CoreCompileInputs.cache
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.JsonDump\obj\Debug\netcoreapp1.0\Google.Protobuf.JsonDump.AssemblyInfo.cs
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.JsonDump\obj\Debug\netcoreapp1.0\Google.Protobuf.JsonDump.dll
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.JsonDump\obj\Debug\netcoreapp1.0\Google.Protobuf.JsonDump.pdb

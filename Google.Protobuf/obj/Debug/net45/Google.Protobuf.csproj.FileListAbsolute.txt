@@ -1,0 +1,10 @@
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf\bin\Debug\net45\Google.Protobuf.dll
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf\bin\Debug\net45\Google.Protobuf.pdb
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf\bin\Debug\net45\Google.Protobuf.xml
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf\bin\Debug\net45\Newtonsoft.Json.dll
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf\obj\Debug\net45\Google.Protobuf.csprojResolveAssemblyReference.cache
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf\obj\Debug\net45\Google.Protobuf.csproj.CoreCompileInputs.cache
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf\obj\Debug\net45\Google.Protobuf.AssemblyInfo.cs
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf\obj\Debug\net45\Google.Protobuf.dll
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf\obj\Debug\net45\Google.Protobuf.xml
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf\obj\Debug\net45\Google.Protobuf.pdb

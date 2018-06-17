@@ -1,0 +1,15 @@
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Conformance\bin\Debug\netcoreapp1.0\Google.Protobuf.Conformance.deps.json
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Conformance\bin\Debug\netcoreapp1.0\Google.Protobuf.Conformance.runtimeconfig.json
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Conformance\bin\Debug\netcoreapp1.0\Google.Protobuf.Conformance.runtimeconfig.dev.json
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Conformance\bin\Debug\netcoreapp1.0\Google.Protobuf.Conformance.dll
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Conformance\bin\Debug\netcoreapp1.0\Google.Protobuf.Conformance.pdb
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Conformance\bin\Debug\netcoreapp1.0\Google.Protobuf.dll
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Conformance\bin\Debug\netcoreapp1.0\Google.Protobuf.Test.dll
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Conformance\bin\Debug\netcoreapp1.0\Google.Protobuf.pdb
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Conformance\bin\Debug\netcoreapp1.0\Google.Protobuf.xml
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Conformance\bin\Debug\netcoreapp1.0\Google.Protobuf.Test.pdb
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Conformance\obj\Debug\netcoreapp1.0\Google.Protobuf.Conformance.csprojResolveAssemblyReference.cache
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Conformance\obj\Debug\netcoreapp1.0\Google.Protobuf.Conformance.csproj.CoreCompileInputs.cache
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Conformance\obj\Debug\netcoreapp1.0\Google.Protobuf.Conformance.AssemblyInfo.cs
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Conformance\obj\Debug\netcoreapp1.0\Google.Protobuf.Conformance.dll
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Conformance\obj\Debug\netcoreapp1.0\Google.Protobuf.Conformance.pdb

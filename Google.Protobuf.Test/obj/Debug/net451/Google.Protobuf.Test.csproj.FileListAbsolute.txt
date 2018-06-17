@@ -1,0 +1,14 @@
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Test\bin\Debug\net451\Google.Protobuf.Test.runtimeconfig.json
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Test\bin\Debug\net451\Google.Protobuf.Test.runtimeconfig.dev.json
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Test\bin\Debug\net451\Google.Protobuf.Test.exe
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Test\bin\Debug\net451\Google.Protobuf.Test.pdb
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Test\bin\Debug\net451\nunit.framework.dll
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Test\bin\Debug\net451\nunitlite.dll
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Test\bin\Debug\net451\Google.Protobuf.dll
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Test\bin\Debug\net451\Google.Protobuf.pdb
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Test\bin\Debug\net451\Google.Protobuf.xml
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Test\obj\Debug\net451\Google.Protobuf.Test.csprojResolveAssemblyReference.cache
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Test\obj\Debug\net451\Google.Protobuf.Test.csproj.CoreCompileInputs.cache
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Test\obj\Debug\net451\Google.Protobuf.Test.AssemblyInfo.cs
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Test\obj\Debug\net451\Google.Protobuf.Test.exe
+C:\Users\Vysius\Desktop\protobuf-3.5.1\csharp\src\Google.Protobuf.Test\obj\Debug\net451\Google.Protobuf.Test.pdb
